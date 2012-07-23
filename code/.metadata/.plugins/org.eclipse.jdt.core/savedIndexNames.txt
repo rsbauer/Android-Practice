@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+/Users/astro/Documents/workspace/android_tutorials/Android-Practice/code/.metadata/.plugins/org.eclipse.jdt.core
+3101663542.index
+2413205079.index
+2164092850.index
+2850164572.index
+2021302293.index
