@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="android.widget.RadioGroup"/>
 <fullyQualifiedTypeName name="apt.tutorial.R.id"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="android.widget.ListView"/>
 </qualifiedTypeNameHistroy>
